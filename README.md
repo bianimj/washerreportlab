@@ -71,32 +71,30 @@ This report details a forensic investigation of a computer belonging to John Was
 
 <p align="center">
 Figure 1.0: Case Information for Hard Drive Image <br/>
-<img src="![Screenshot 2024-05-28 134552](https://github.com/bianimj/washerreportlab/assets/170975732/fd2e1c31-fb91-4dbb-bcb0-555b7d8c93a2)" height="80%" width="80%" alt="Washer Report Steps"/>
+<img src="(https://imgur.com/a/6tEKb6E)" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
 Figure 1.2: Destination Path for Hard Drive Image  <br/>
-<img src="![Screenshot 2024-05-28 134641](https://github.com/bianimj/washerreportlab/assets/170975732/09ea98fc-30e0-4b3c-9e5e-1c72dcf2d9ee)" height="80%" width="80%" alt="Washer Report Steps"/>
+<img src="https://imgur.com/OD7NbIt" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
 Figures 1.3-1.4: Hard Drive Imaging Progress <br/>
-<img src="![Screenshot 2024-05-28 135206](https://github.com/bianimj/washerreportlab/assets/170975732/4d414c01-559b-416f-9fa4-f3834e54dda4)" height="80%" width="80%" alt="Washer Report Steps"/>
+<img src="https://imgur.com/YVSUask" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
 Figure 1.5: Hash Value Verification for Hard Drive Image <br/>
-<img src="![Screenshot 2024-05-28 135310 (https://github.com/bianimj/washerreportlab/assets/170975732/b2e1d2ff-f08d-4ab4-9f86-814abf3142ea)" height="80%" width="80%" alt="Washer Report Steps"/>
+<img src="https://imgur.com/rbqaidC" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
 Figures 1.7-1.8: Loading Washer's Disk Image into Axiom  <br/>
-<img src="![Screenshot 2024-05-28 141140](https://github.com/bianimj/washerreportlab/assets/170975732/ebb95054-5af9-4f87-8142-e896736fac3e)" height="80%" width="80%" alt="Washer Report Steps"/>
+<img src="https://imgur.com/1DK2Ptf" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
 Figures 1.9-2.5: Suspicious Chrome Searches  <br/>
-<img src="![Screenshot 2024-05-28 141528](https://github.com/bianimj/washerreportlab/assets/170975732/bbe42bf5-04b9-499e-ab02-050e43eea75e)
-" height="80%" width="80%" alt="Washer Report Steps"/>
+<img src="https://imgur.com/bvqhlXU" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--

@@ -1,4 +1,4 @@
-<h1>Washer Investigation Report</h1>
+<h1>📕Washer Investigation Report</h1>
 
 
 
@@ -15,12 +15,12 @@ This report details a forensic investigation of a computer belonging to John Was
     - The system date and time were documented before imaging to assist with file timestamps.
     -  A write blocker was used to ensure the imaging process wouldn't alter any data on the drive.
   -   The image captured a bit-by-bit copy of all information on the drive.
-   - Figures 1.0-1.4 showcase the imaging process and details.
+   - Figures 1.0-1.2 showcase the imaging process and details.
 <br />
 
 - <b>Verification</b>
     - Hash values were generated to create a digital fingerprint of the image, ensuring its integrity.
-    - Figure 1.5 shows the verification of the hash values.
+    - Figure 1.3 shows the verification of the hash values.
 
 
 
@@ -29,31 +29,30 @@ This report details a forensic investigation of a computer belonging to John Was
 - <b>Software: Axiom </b> 
 - <b>Process</b>
     - The disk image was loaded into Axiom for forensic analysis.
-    - Figures 1.7-1.8 depict the case loading process.
   
 - <b>Web Activity</b>
      -  Internet browser history was reviewed, including:
-          - Chrome Searches (Figures 1.9-2.5)
-          - Internet Explorer Typed URLs (Figures 2.6-2.7)
-          - Internet Explorer Cache Records (Figures 2.8-2.9)
+          - Chrome Searches (Figure 1.5)
+          - Internet Explorer Typed URLs 
+          - Internet Explorer Cache Records 
     - Analysis revealed potentially suspicious searches related to identity theft and check washing.
   
 - <b>Social Media</b>
-     -  Social media usage was investigated, with Flickr being the most frequently used platform (Figure 3.0).
+     -  Social media usage was investigated, with Flickr being the most frequently used platform.
  
 - <b>Media Analysis</b>
      -  Recovered photos included:
-          - Images related to web search history (destroyed hard drives, maps) (Figures 3.1-3.4)
-          - A disturbing image of a young girl smoking (Figure 3.5)        
+          - Images related to web search history (destroyed hard drives, maps) 
+          - A disturbing image of a young girl smoking       
     - Recovered documents included:
-         - Incriminating documents like "washers to do list" and "X marks the spot" (Figures 3.7-3.9)
-         - Encrypted documents that couldn't be accessed (Figures 4.0-4.4)
+         - Incriminating documents like "washers to do list" and "X marks the spot" 
+         - Encrypted documents that couldn't be accessed 
 
 - <b>Email Analysis</b>
-     -  Emails retrieved from the computer were examined (Figures 4.5-4.6).
+     -  Emails retrieved from the computer were examined.
  
 - <b>Connected Devices</b>
-     -  A list of all devices ever connected to the computer was identified (Figure 4.7).
+     -  A list of all devices ever connected to the computer was identified.
   
 <h2>Encryption</h2>
    -  The report notes the presence of encryption software that prevented access to some files (five encrypted files were identified).
@@ -71,27 +70,27 @@ This report details a forensic investigation of a computer belonging to John Was
 
 <p align="center">
 Figure 1.0: Case Information for Hard Drive Image <br/>
-<img src="(https://imgur.com/a/6tEKb6E)" height="80%" width="80%" alt="Washer Report Steps"/>
+<img src="https://i.imgur.com/spdEfcY.png" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
-Figure 1.2: Destination Path for Hard Drive Image  <br/>
-<img src="https://imgur.com/OD7NbIt" height="80%" width="80%" alt="Washer Report Steps"/>
+Figure 1.1: Destination Path for Hard Drive Image  <br/>
+<img src="https://i.imgur.com/OD7NbIt.png" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
-Figures 1.3-1.4: Hard Drive Imaging Progress <br/>
-<img src="https://imgur.com/YVSUask" height="80%" width="80%" alt="Washer Report Steps"/>
+Figures 1.2: Hard Drive Imaging Progress <br/>
+<img src="https://i.imgur.com/YVSUask.png" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
-Figure 1.5: Hash Value Verification for Hard Drive Image <br/>
-<img src="https://imgur.com/rbqaidC" height="80%" width="80%" alt="Washer Report Steps"/>
+Figure 1.3: Hash Value Verification for Hard Drive Image <br/>
+<img src="https://i.imgur.com/rbqaidC.png" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
-Figures 1.7-1.8: Loading Washer's Disk Image into Axiom  <br/>
-<img src="https://imgur.com/1DK2Ptf" height="80%" width="80%" alt="Washer Report Steps"/>
+Figures 1.4: Loading Washer's Disk Image into Axiom  <br/>
+<img src="https://i.imgur.com/1DK2Ptf.png" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
-Figures 1.9-2.5: Suspicious Chrome Searches  <br/>
-<img src="https://imgur.com/bvqhlXU" height="80%" width="80%" alt="Washer Report Steps"/>
+Figures 1.5: Suspicious Chrome Searches  <br/>
+<img src="https://i.imgur.com/bvqhlXU.png" height="80%" width="80%" alt="Washer Report Steps"/>
 <br />
 <br />
 
